@@ -1,0 +1,4 @@
+multiprocessing
+vk_api
+environs
+
